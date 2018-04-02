@@ -1,0 +1,9 @@
+{
+  "name": "fcc-javascript-calculator",
+  "version": "0.0.0",
+  "description": "FCC Javascript Calculator",
+  "main": "app.js",
+  "author": {
+    "name": "Admin"
+  }
+}
