@@ -13,6 +13,7 @@ body {
     border-radius: 20px;
     box-shadow: 18px 18px 34px 1px rgba(0, 0, 0, 0.68), inset -10px -12px 12px 0.1px #89847e;
     padding: 0px 35px 0px 35px;
+    direction: ltr;
 }
 
 .calc-header {
@@ -33,6 +34,8 @@ body {
     text-align: right;
     font-size: 60px;
     padding: 0 20px 0 20px;
+    overflow-x: hidden;
+    direction: rtl;
 }
 
 .button-container{
